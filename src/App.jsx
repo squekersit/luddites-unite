@@ -20,7 +20,7 @@ function App() {
         marginBottom: '1rem',
         textShadow: '2px 2px 4px rgba(0,0,0,0.3)'
       }}>
-        🚀 My First Vercel App
+        🚀 I Did It Booya!
       </h1>
       
       <p style={{ 
